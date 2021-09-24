@@ -3,10 +3,12 @@
 3. Calcular la componentes con los datos concatenados, y mirar las proyecciones pre y post
 done parte componentes datos concatenados
 
-Falta:
+Falta: done
 Update 21/Sep: en realidad lo que hay que hacer es concatenar todos los pre de todos los sujetos, todos los post, hacer a esos dos PCA y comparar.
+
 
 4. Tiempo total. En el foro indican una cuenta 4*60*srate -> 240s. Nosotros interpretamos muestras/srate = 60
 Es 1 min. por archivo. Confirmado con Luz 21/Sep
 
 5. Hacer las comparaciones entre topografías promedio pre y post
+¿Quizás tirar alguna medidad de similaridad entre pre y post?
